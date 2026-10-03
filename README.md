@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jomana Ahmed
 
-### 🔬 Machine Learning & Data Science Enthusiast
+### 🔬 Machine Learning & MLOps Engineer | Software Developer
 
-I love training ML models to analyze text data and building smart solutions from scratch!
+Experienced Computer Science Developer specializing in **Machine Learning**, **NLP**, and **MLOps**. Focused on designing, training, and deploying end-to-end intelligent systems, text classification models, and robust data pipelines.
 
 ---
 
@@ -18,7 +18,7 @@ I love training ML models to analyze text data and building smart solutions from
 
 ### 🛠️ Tech Stack:
 
-#### 🧠 Machine Learning, Data Science & NLP
+#### 🧠 Machine Learning, MLOps & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,8 +27,9 @@ I love training ML models to analyze text data and building smart solutions from
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 💻 Programming Languages & Web Development
+#### 💻 Programming Languages & Frameworks
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +41,7 @@ I love training ML models to analyze text data and building smart solutions from
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### 📊 Analytics, Databases & Tools
+#### 📊 Tools, Databases & CI/CD
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
